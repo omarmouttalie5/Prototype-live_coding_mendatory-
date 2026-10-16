@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nom": "Développement Web",
+        "couleur": "Bleu",
+        "icone": "Code"
+    },
+    {
+        "id": 2,
+        "nom": "Design UI\/UX",
+        "couleur": "Rose",
+        "icone": "Pinceau"
+    },
+    {
+        "id": 3,
+        "nom": "new",
+        "couleur": "Violet",
+        "icone": "Eclair"
+    }
+]
