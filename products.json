@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "t-shirt",
+        "price": "9",
+        "size": "L"
+    },
+    {
+        "id": 2,
+        "name": "shorts",
+        "price": "20",
+        "size": "L"
+    },
+    {
+        "id": 3,
+        "name": "black suit",
+        "price": "129",
+        "size": "L"
+    },
+    {
+        "id": 4,
+        "name": "shoes",
+        "price": "29",
+        "size": "XS"
+    },
+    {
+        "id": 5,
+        "name": "new pro",
+        "price": "55",
+        "size": "M"
+    },
+    {
+        "id": 6,
+        "name": "new product1",
+        "price": "666",
+        "size": "L"
+    }
+]
